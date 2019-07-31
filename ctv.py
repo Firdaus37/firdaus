@@ -1,6 +1,5 @@
 #Jangan ganti author , hargai creator cape loh buat nya
 
-import
 from LIST.id import *
 from LIST.it import *
 from LIST.jp import *
