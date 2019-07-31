@@ -2468,5 +2468,3 @@ def gaz(toket, enable = True):
 	else:
 		print "\033[1;91m[!] Error"
 		keluar()
-	
-lisensi()
